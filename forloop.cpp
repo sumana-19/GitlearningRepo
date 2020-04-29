@@ -6,4 +6,6 @@ int main()
 {
 
   cout<<"Yahooo";
+  cout<<"Done with for loops";
+  cout<<"WAIT WHAT about while";
 }
